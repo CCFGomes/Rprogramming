@@ -24,3 +24,5 @@ In file(file, "rt") :
 Warning message:
 NAs introduced by coercion 
 > hist(outcome[, 11],xlab= "Deaths", main = "Hospital 30-Day Death (Mortality) Rates from Heart Attack")
+
+# check the histogram at https://github.com/CCFGomes/Rprogramming/blob/Data_Analysis/ProgrammingAssignment3/Rplot%20-%2030-day%20death%20rates%20from%20heart%20attack.png
